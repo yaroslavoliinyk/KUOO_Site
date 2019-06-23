@@ -10,7 +10,7 @@
 5. Run the next command to extract the program: "*tar -xJf KUOO_Site.tar.xz*"
 6. Use the command
   * For **Google Chrome** users: "*google-chrome ~/Downloads/KUOO/src/html/index.html*"
-  * For **Mozilla Firefox** users: "*firefox ~/Downloads/KUOO/src/html/index.html*"
+  * For **Mozilla Firefox** users: "*firefox ~/Downloads/KUOO_Site-master/KUOO/src/html/index.html*"
 7. Well done! Enjoy your user experience :rocket:.
 
 ## Screenshots of the site
