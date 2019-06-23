@@ -7,9 +7,9 @@
 2. Unzip the repository in "*Downloads*" folder
 3. You'll have the following package: KUOO_Site-master
 4. Enter this package: "*cd ~/Downloads/KUOO_Site-master/*"
-5. Run the next command to extract the program: "*tar -xJf KUOO_Site.tar.xz*"
+5. Run the next command to extract the program: "*tar -xJf KUOO.tar.xz*"
 6. Use the command
-  * For **Google Chrome** users: "*google-chrome ~/Downloads/KUOO/src/html/index.html*"
+  * For **Google Chrome** users: "*google-chrome ~/Downloads/KUOO_Site-master/KUOO/src/html/index.html*"
   * For **Mozilla Firefox** users: "*firefox ~/Downloads/KUOO_Site-master/KUOO/src/html/index.html*"
 7. Well done! Enjoy your user experience :rocket:.
 
